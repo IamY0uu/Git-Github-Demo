@@ -1,0 +1,36 @@
+# commands : 
+#     to login:
+#      git config --global user.name IamY0uu
+#      git config --global user.email hdrive701@gmail.com
+
+#     git status :- to view status of code
+    
+# 1. git init – Initialize a new Git repository (csharp)
+# git init
+
+# 2. git clone – Clone a repository
+# git clone https://github.com/user/repo.git
+
+# 3. git add – Add files to the staging area (csharp)
+# git add file.txt
+
+# 4. git commit – Commit changes (sql)
+# git commit -m "Initial commit"
+
+# 5. git push – Push changes to remote repository (css)
+# git push origin main
+
+# 6. git pull – Fetch and merge changes from remote (css)
+# git pull origin main
+
+# 7. git branch – List, create, or delete branches (cpp)
+# git branch new-branch
+
+# 8. git checkout – Switch branches (cpp)
+# git checkout new-branch
+
+# 9. git merge – Merge branches (sql)
+# git merge feature-branch
+
+# 10. git log – Show commit history (lua)
+# git log --oneline
